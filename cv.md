@@ -2,7 +2,7 @@
 
 ![Photo](https://i.ibb.co/VL43K79/01-BMZFJvft-A-2.jpg)
 
-##Contact info 
+## Contact info 
 + Email: <levkovich.kirill.1@mail.ru> 
 + [Telegram](https://t.me/KirillLevkovich)
 + [GitHub](https://github.com/TRASHTOLK)
@@ -18,5 +18,5 @@
 [GitHub](https://github.com/TRASHTOLK)
 [CodeWars](https://www.codewars.com/users/TRASHTALK)
 
-#English 
+# English 
 Current level: B1
